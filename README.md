@@ -46,13 +46,13 @@ My work combines marketing strategy, technology, creative execution, and analyti
 
 ### Contact
 
+* Phone: +2348081907333
 * GitHub: github.com/mubarakgayya
 * Email: [mubarakgayya@gmail.com]
 * LinkedIn: [https://www.linkedin.com/in/mubarak-gayya]
 * facebook: [https://www.facebook.com/share/19GFwmPTtT/]
-* Location: Keffi, Nasarawa State, Nigeria
+* Location: Abuja, Nigeria
 
----
 
 This repository contains the source code and assets for my professional portfolio website.
 
